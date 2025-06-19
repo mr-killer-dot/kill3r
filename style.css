@@ -1,0 +1,865 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); 
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif; 
+    
+}
+body{
+    background: ;
+    
+}
+header{
+    height: 100px;
+    background:#35424a;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0px;
+    border-bottom: 5px solid red;
+    z-index: 1;
+}
+.raw{
+    height: 10px;
+    background: red;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: white;
+    text-transform: ;
+    font-weight: bolder;
+    margin: 0px 175px 0px 40px;
+}
+.nav-link .logo a{
+    text-decoration: none;
+}
+.nav-link .logo h3{
+    font-weight: ;
+    font-size: 55px;
+    color: white;
+}
+span{
+    color: red;
+    font-weight: bold;
+}
+.nav-link{
+    display: flex;
+   /*   justify-content: center; */
+    margin: auto;
+    width: 87%;
+    background: ;
+    float: ;
+}
+header .nav-link .nav-item{
+    display: flex;
+    justify-content: ;
+    margin-left: ;
+    border-right:.15em solid orange;
+    align-items: center;
+    background: ;
+}
+
+
+
+header .nav-link .nav-item ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+    background-color: ;
+    
+}
+header .nav-link .nav-item ul li{
+    display: inline;
+    margin: 10px;
+    background: ;
+    float: left;
+}
+#hm{
+    color: red;
+}
+header .nav-link .nav-item ul li a:hover{
+    color: red;
+  font-weight:bold;
+}
+header .nav-link .nav-item ul li a{
+    color: white;
+    text-decoration: none;
+    margin: ;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+header .nav-link .nav-item-btn{
+    /*  
+    display: flex;
+    align-items: center;
+    align-items: center;
+     */
+     background: ;
+     display: flex;
+     
+}
+header .nav-link .nav-item-btn ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header .nav-link .nav-item-btn ul li{
+    display: inline-block;
+    margin: 10px;
+    padding: 0px;
+}
+header .nav-link .nav-item-btn ul li a i:hover{
+    color: red;
+}
+footer .foot-icon ul li a i:hover{
+    color: red;
+    font-weight: bold;
+}
+.fa-facebook{
+    color: white;
+    font-size: 38px;
+}
+.fa-instagram{
+    color: white;
+    font-size: 38px;
+}
+.rio{
+    font-size: 45px;
+}
+.btn{
+    height: ;
+    font-size: 100px;
+    background: red;
+    color: white;
+    padding: ;
+    border-radius: 7px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: ;
+}
+.lol{
+    font-size: 25px;
+    padding: 10px 18px;
+    font-weight: bold;
+    
+}
+.batton{
+    background: ;
+    padding: ;
+}
+#btm{
+    margin: 25px 50px 0px 0px;
+}
+
+/* nav_ebd */
+.raw{
+    height: 5px;
+    background-color: red;
+}
+/* footer-start */
+footer{
+  height: 470px;
+  font-size: 30px;
+  padding: 40px;
+  color:#ffffff;
+  background-color: #35424a; 
+  display: ;
+  justify-content: center;
+  align-items: center;
+  overflow: ;
+}
+/* footer-end */
+.hero{
+    height: 480px;
+    background-image: url('imags/106.png');
+    background-size: cover;
+    background-position: center bottom;
+    display: ;
+    justify-content: ;
+    align-items: center;
+    width: 100%;
+    background-color: ;
+    margin: auto;
+    overflow: hidden;
+}
+.left{
+    background-color: ;
+    width: 70%;
+    padding: 40px;
+    margin: 110px 0px 0px 60px;
+    display: ;
+    justify-content: ;
+    align-items: ;
+    color: black;
+    display: ;
+}
+.hero .left .botton{
+    display: ;
+    justify-content: ;
+    align-items: ;
+    background: ;
+    margin: 185px 0px 0px 445px;
+    height: 80px;
+    width: 400px;
+}
+.hero .left p{
+    text-align: ;
+    margin-top: ;
+    color: ;
+    background: ;
+    display: none;
+}
+.typing_style{
+    text-align: ;
+    color: red;
+    display: none;
+}
+.hero .left .rain{
+    text-align: ;
+    color: orange;
+    
+}
+.right{
+    background-color: ;
+    width: 35%;
+    display: none;
+       
+}
+.hero .left h4{
+    margin: 100px 0px 0px 0px;
+    color: white;
+    font-size: 35px;
+}
+.hero .left h1{
+    margin: 0px 0px 0px 0px;
+    color: white;
+    font-size: 45px;
+    display: none;
+}
+
+.hero .right img{
+    width: 350px; 
+    margin: 20px 0px 0px 20px;
+    border-radius: 10px;
+    
+}
+.hero .left p{
+    margin: 6px 0px 40px 0px;
+    color: white;
+    font-size: 25px;
+}
+.hero .left a{
+    margin: 10px 0px 0px 0px;
+}
+/* hero_end */
+.main{
+    background: #35424a; 
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    background: ;
+    width: 100%;
+    margin: auto;
+}
+.main-left{
+    height: 600px;
+    background-color: ;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.main-left img{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+    border-radius: 50px;
+    padding: 10px;
+    
+}
+.main-right{
+    height: 600px;
+    background-color: ;
+    width: 48%;
+    margin: 0px 0px 0px 0px;
+}
+.main .main-right .main-right-content .queen{
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+    margin: 200px 0px 6px 0px;
+    align-items: ;
+    text-align: ;
+}
+ .main .main-right .main-right-content p{
+     text-align: ;
+ }
+ .main .main-right .main-right-content a{
+     align-items: ;
+     text-align: ;
+ }
+.batton_2{
+    display: ;
+    justify-content: ;
+    align-items: ;
+}
+.main-right .main-right-content h3{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.main-right .main-right-content p{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.main-right .main-right-content a{
+    padding: 10px 20px;
+}
+.super{
+    height: ;
+    margin: 0 auto;
+    width: 100%;
+    background: #35424a;
+    padding: ; 
+    background: ;
+}
+
+.birthday{
+    background: ;
+    margin: 0px 0px 0px 0px;
+    height: 100px;
+    width: ;
+    padding-top: 40px;
+}
+.container{
+    z-index: -1;
+}
+.slider::-webkit-scrollbar{
+    display: none;
+}
+.slider{
+    display: flex;
+    overflow-x: scroll;
+    width: 100%;
+    background-color: ;
+    padding: 15px;
+}
+.text{
+    position: relative;
+    flex-shrink: 0;
+    right: 0%;
+    width: 100%;
+    color: red;
+    font-size: 50px;
+    font-weight: bolder;
+    animation: slide 10s linear infinite;
+}
+@keyframes slide {
+    to {
+        right: 100%;
+    }
+}
+
+.super .birthday h1{
+    text-transform: none;
+    background: red;
+    width: 100%;
+    display: ;
+    margin-top: ;
+}
+.super .birthday h2{
+    text-transform: none;
+}
+.super_killer{
+    background: ;
+}
+.super_all{
+   display: flex; 
+   justify-content: space-around;
+   flex-direction: row;
+   padding-left: 25px;
+   padding-right: 25px;
+   margin-top: ;
+}
+.super_rain{
+   margin-top: 90px;
+}
+.super_all_killer{
+    background: ;
+}
+.super h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: ;
+    text-transform: uppercase;
+}
+.super .para{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin: 50px 0px 0px 0px;
+    text-transform: ;
+}
+.pro{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 18px;
+    margin-top: 3px;
+}
+.intro{
+    background:#35424a; 
+}
+.intro h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin: 50px 0px 20px 0px;
+}
+.killer{
+    background: ;
+    height: 550px;
+    width: 30%;
+}
+.super_left{
+    height: ;
+    background: ;
+    width: ;
+}
+.super_center{
+    height: ;
+    background: ;
+    width: ;
+}
+.super_right{
+  /*height: 500px; */
+    background: ;
+    width: ;
+}
+.super_img{
+    width: 100%;
+    height: 400px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 15px;
+    background-size: cover;
+    overflow: hidden;
+    margin: auto;
+}
+.info{
+    text-align: center;
+    color: white;
+    margin: 15px 0px 2px 0px;
+    font-size: 25px;
+}
+.inti{
+    text-align: center;
+    color: white;            
+    font-size: 17px;
+}
+.food-end{
+    height: 20px;
+    color: black;
+}
+.food-end p{
+    text-align: center;
+}
+.main .main-right .main-right-content h1 {
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 0 auto;
+    color: red;
+    font-weight: bold;
+    font-size: 45px;
+    border-right:.15em solid orange;
+    animation: typing 5s steps(40, end) infinite;
+    blink-caret .75s infinite
+}
+@keyframes typing {
+    from {width: 0% }
+    to {width: 100% }
+}
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    10% { border-color: orange; }
+}
+#so{
+    font-size: 47px;
+}
+.typing {
+    display: flex;
+}
+.foot-icon ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot-icon ul li{
+    display: inline-block;
+}
+.foot-pre{
+    display: ;
+    justify-content: ;
+    align-items: ;
+    margin: 0px auto;
+}
+.foot-pre p{
+    text-align: center;
+    margin: 0px;
+    margin-top: ;
+}
+.foot-pre p a{
+    color: red;
+}
+.fa-solid{
+    font-size: ;
+    margin: ;
+}
+.rn{
+    font-size: 100px;
+    margin: 15px;
+}
+.rifat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: ;
+}
+.rifat .foot-end{
+    height: 200px;
+    width: 100%;
+    background: red;
+    display: ;
+    justify-content: ;
+    align-items: ;
+    
+}
+.foot-end h1{
+    font-size: 40px;
+    align-items: ;
+    font-weight: bold;
+    margin: 30px 0px 3px 0px;
+}
+.foot-end p{
+    align-items: center;
+    font-size: 25px;
+    text-transform: ;
+}
+.foot-end {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+    margin: 0 auto;
+    background: #35424a;
+}
+
+@media(max-width: 768px){
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); 
+    *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif; 
+    
+    }
+    body{
+        background-color: ;
+    }
+    .btn{
+    height: 45px;
+    background: red;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 7px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: ;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        background-color: ;
+        height: 120px;
+        position: ;
+        margin: auto;
+        overflow: hidden;
+    }
+    header .nav-link{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
+   .logo{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       margin-top: 5px;
+       
+   }
+   header a:hover{
+       color:#cccccc;
+       font-weight:bold;
+   }
+   header .nav-link .nav-item{
+       margin: 0px 0px 10px 0px;
+   }
+   header .nav-link .nav-item ul li a{
+       font-size: 15px;
+       margin: 0px 18px 0px 0px;
+       
+   }
+   
+    header .nav-link .nav-item{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    header .nav-link .nav-item-btn{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+    }
+   .hero{
+       display: flex;
+       justify-content: center;
+       margin: auto;
+       width: 100%;
+       background: ;
+       height: 484px;
+   }
+   .left{
+    position: absolute;
+    
+    width: 100%;
+    top: 200px;
+    justify-content: center;
+    background-color: ;
+    margin: auto;   
+   }
+  .right{
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      margin: auto;
+      display: none;
+  }
+   .hero .left h4{
+       font-size: 38px;
+       margin: 0px 0px 0px 0px;
+       text-align: center;
+       
+   }
+   .hero .left h1{
+       font-size: 40px;
+       margin: 0px 0px 4px 0px;
+       text-align: center;
+       display: block;
+       
+   }
+   .hero .left p{
+       font-size: 15px;
+       margin: 0px 0px 20px 0px;
+       text-align: center;
+       
+   }
+   .hero .left a{
+       margin: auto;
+       font-size: 15px;
+       font-weight: bold;
+       text-align: center;
+       align-items: center;
+   }
+  .lol{
+       display: flex;
+       justify-content: center;
+       width: 75%;
+   }
+    .hero .right img{
+        width: 100%;
+        margin: auto;
+        border-radius: 0px;
+    }
+    .main-right{
+        background: green;
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        width: 80%;
+        height: auto;
+        top: 500px;
+    }
+   .main-right .main-right-content{
+       position: absolute;
+       
+       align-items: center;
+       text-align: center;
+   }
+    .main-right .main-right-content h1{
+      font-size: 20px;
+      text-align: center;
+      margin:135px 0px 0px 15px;
+      
+     }
+   .main-right .main-right-content h3{
+     font-size: 28px;
+     text-align: center;
+    }
+    .main-right .main-right-content p{
+        font-size: 17px;
+        text-align: center;
+    }
+   .main{
+       display: flex;
+       justify-content: center;
+       margin: auto;
+       background:#35424a; 
+       height: 350px;
+       width: 100%;
+   }
+   .main-left{
+       width: 100%;
+       display: flex;
+       justify-content: center;
+       background: pink;
+       height: 500px;
+       margin: auto;
+       position: absolute;
+       display: none;
+   }
+   .main .main-left img{
+       width: 100%;
+       margin: auto;
+       display: flex;
+       justify-content: center;
+       border-radius: 2px;
+       position: relative;
+       
+   }
+   .main-right .main-right-content a{
+       font-size: 15px;
+       font-weight: bold;
+       display: flex;
+       justify-content: center;
+       text-align: center;
+       align-items: center;
+   }
+  .pro{
+      font-size: 15px;
+  }
+  .raw{
+      height: 3px;
+  }
+   .super{
+       background: ;
+       margin: auto;
+   }
+   .killer{
+      
+   }
+   .super_left{
+      justify-content: center;
+      margin: auto;
+      background: ;
+      width: 100%;
+      height: 400px;
+      margin-top: 20px;
+   }
+   .super_center{
+      margin-top: 20px;
+       justify-content: center;
+      margin: auto;
+      background: ;
+      width: 100%;
+      height: 400px;
+   }
+   .super_right{
+       background: ;
+       justify-content: center;
+      margin: auto;
+      background: ;
+      width: 100%;
+      height: 400px;
+      margin-top: 20px;
+   }
+   .super_all{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       margin: auto;
+   }
+   .super_img{
+       width: 200px;
+       display: flex;
+       justify-content: center;
+       margin: auto;
+       margin-bottom: 15px;
+   }
+  
+   .intro h2{
+       font-size: 30px;
+   }
+   .inti{
+       font-size: 14px;
+   }
+   .info{
+       font-size: 20px;
+   }
+   footer{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       background: ;
+       height: 80px;
+       
+       
+   }
+   footer p{
+       font-size: 15px;
+       text-align: center;
+       
+   }
+} 
+@media screen and (max-width:320px){
+    header .nav-link .nav-item ul li{
+        margin: 0px 9px;
+    }
+    header .nav-link .nav-item ul li a{
+        font-size: 10px;
+        margin: 0px 10px;
+    }
+}
+media screen and (max-width:480px){
+    .hero{
+        height: 300px;
+    }
+    .main{
+        height: 90vh;
+    }
+}
+.hero,left typing_style{
+    animation: 3s speed(40, end) infinite;
+    blink-caret:.75 infinite;
+}
+@keyframes typing_style {
+    from width: 0;
+    to width: 100%;
+}
+@keyframes blink-caret {
+    from, to border-color: transparent;
+    10% border-color: orange;
+}
